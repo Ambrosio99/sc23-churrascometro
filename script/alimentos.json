@@ -1,0 +1,220 @@
+{
+  "Carnes": [
+    {
+      "id": "picanha",
+      "preco": 60,
+      "peso": 1000
+    },
+    {
+      "id": "cupim",
+      "preco": 45,
+      "peso": 1000
+    },
+    {
+      "id": "maminha",
+      "preco": 45,
+      "peso": 1000
+    },
+    {
+      "id": "fraldinha",
+      "preco": 32,
+      "peso": 1000
+    },
+    {
+      "id": "contra-file",
+      "preco": 30,
+      "peso": 1000
+    },
+    {
+      "id": "frango",
+      "preco": 20,
+      "peso": 1000
+    },
+    {
+      "id": "alcatra",
+      "preco": 40,
+      "peso": 1000
+    },
+    {
+      "id": "linguica",
+      "preco": 20,
+      "peso": 1000
+    },
+    {
+      "id": "sobrecoxa",
+      "preco": 15,
+      "peso": 1000
+    },
+    {
+      "id": "bisteca",
+      "preco": 24,
+      "peso": 1000
+    },
+    {
+      "id": "costela",
+      "preco": 22,
+      "peso": 1000
+    },
+    {
+      "id": "pernil",
+      "preco": 18,
+      "peso": 1000
+    },
+    {
+      "id": "anchova",
+      "preco": 25,
+      "peso": 1000
+    },
+    {
+      "id": "coracao",
+      "preco": 32,
+      "peso": 1000
+    }
+  ],
+  "Bebidas": [
+    {
+      "id": "cerveja",
+      "preco": 3,
+      "qnt": 5,
+      "alcool": true
+    },
+    {
+      "id": "refrigerante",
+      "preco": 7,
+      "qnt": 1,
+      "alcool": false
+    },
+    {
+      "id": "whisky",
+      "preco": 80,
+      "qnt": 1,
+      "alcool": true
+    },
+    {
+      "id": "agua",
+      "preco": 2,
+      "qnt": 2,
+      "alcool": false
+    },
+    {
+      "id": "vodka",
+      "preco": 25,
+      "qnt": 1,
+      "alcool": true
+    },
+    {
+      "id": "suco",
+      "preco": 6,
+      "qnt": 1,
+      "alcool": false
+    },
+    {
+      "id": "gin",
+      "preco": 35,
+      "qnt": 1,
+      "alcool": true
+    },
+    {
+      "id": "cha",
+      "preco": 6,
+      "qnt": 1,
+      "alcool": false
+    },
+    {
+      "id": "vinho",
+      "preco": 25,
+      "qnt": 1,
+      "alcool": true
+    },
+    {
+      "id": "energetico",
+      "preco": 8,
+      "qnt": 1,
+      "alcool": false
+    }
+  ],
+  "Vegan": [
+    {
+      "id": "kafta",
+      "preco": 60,
+      "peso": 1000
+    },
+    {
+      "id": "batata-doce",
+      "preco": 4,
+      "peso": 1000
+    },
+    {
+      "id": "legumes",
+      "preco": 15,
+      "peso": 1000
+    },
+    {
+      "id": "hamburguer",
+      "preco": 42,
+      "peso": 1000
+    },
+    {
+      "id": "carne-soja",
+      "preco": 22,
+      "peso": 1000
+    },
+    {
+      "id": "berinjela",
+      "preco": 5,
+      "peso": 1000
+    },
+    {
+      "id": "cogumelo",
+      "preco": 6,
+      "peso": 1000
+    },
+    {
+      "id": "frutas",
+      "preco": 20,
+      "peso": 1000
+    }
+  ],
+  "Acomp": [
+    {
+      "id": "pao-alho",
+      "preco": 16,
+      "qnt": 0.5
+    },
+    {
+      "id": "tomate",
+      "preco": 2,
+      "qnt": 2
+    },
+    {
+      "id": "farofa",
+      "preco": 12,
+      "qnt": 0.5
+    },
+    {
+      "id": "maionese",
+      "preco": 15,
+      "qnt": 1
+    },
+    {
+      "id": "pao-frances",
+      "preco": 0.6,
+      "qnt": 3
+    },
+    {
+      "id": "queijo",
+      "preco": 8,
+      "qnt": 1
+    },
+    {
+      "id": "cebola",
+      "preco": 3,
+      "qnt": 2
+    },
+    {
+      "id": "pimentao",
+      "preco": 3,
+      "qnt": 2
+    }
+  ]
+}
